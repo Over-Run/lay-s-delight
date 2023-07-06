@@ -19,6 +19,7 @@
   "depends": {
     "fabricloader": ">=0.14.21",
     "minecraft": ">=1.18.2",
-    "farmersdelight": "*"
+    "farmersdelight": "*",
+    "fabric-language-kotlin": ">=1.9.6+kotlin.1.8.22"
   }
 }

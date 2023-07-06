@@ -39,6 +39,10 @@ allprojects {
                 includeGroup "curse.maven"
             }
         }
+        maven {
+            name = 'Kotlin for Forge'
+            url = 'https://thedarkcolour.github.io/KotlinForForge/'
+        }
     }
 
     tasks.withType(JavaCompile).configureEach {
